@@ -1,0 +1,26 @@
+{
+  "name": "instock",
+  "version": "0.0.1",
+  "description": "Silly util to track stock changes in legacy websites that do not offer servcies (REST/SOAP)",
+  "main": "app.js",
+  "dependencies": {
+    "glob": "~4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cnojima/instock.git"
+  },
+  "keywords": [
+    "silly"
+  ],
+  "author": "Chris Nojima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnojima/instock/issues"
+  },
+  "homepage": "https://github.com/cnojima/instock"
+}
